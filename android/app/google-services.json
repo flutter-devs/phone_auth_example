@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1013841534870",
+    "firebase_url": "https://auth-demo-9f007.firebaseio.com",
+    "project_id": "auth-demo-9f007",
+    "storage_bucket": "auth-demo-9f007.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013841534870:android:58e07c3b7ca417649787b7",
+        "android_client_info": {
+          "package_name": "com.aeologic.phone_auth_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013841534870-vfm36ebdvg5ltmdd4pe35vhas72m3d6g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aeologic.phone_auth_example",
+            "certificate_hash": "fa93e423d7c1e45429b8fbd9c46fec34ba084169"
+          }
+        },
+        {
+          "client_id": "1013841534870-08pthvjgeamcf3s3jsqbgtamhob6esct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHgHrWFsyJwepmUuuOAnZ8yJLD3lBU9VU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013841534870-08pthvjgeamcf3s3jsqbgtamhob6esct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
